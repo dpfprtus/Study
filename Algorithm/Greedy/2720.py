@@ -35,3 +35,4 @@ for x in test:
   x %= 5
   a1 = x // 1
   print("{0} {1} {2} {3}".format(a25,a10,a5,a1))
+
